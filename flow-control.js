@@ -35,13 +35,13 @@ case 13 : "You are a teenager";
 case 14 : "You are a teenager";
    break;
 case 15 : "You are a teenager";
-break;
+   break;
 case 16 : "You are a teenager";
-break;
+   break;
 case 17 : "You are a teenager";
-break;
+   break;
 case 18 : "You are a teenager";
-break;
+   break;
 case 19 : "You are a teenager";
 break;
    default:
