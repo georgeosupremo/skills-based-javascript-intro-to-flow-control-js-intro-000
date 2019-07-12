@@ -44,7 +44,6 @@ case 18 :"You are a teenager";
 break;
 case 19 : "You are a teenager";
 break;
-   default:
-   return "You have an age"; 
+   default: "You have an age"; 
   } 
 }
