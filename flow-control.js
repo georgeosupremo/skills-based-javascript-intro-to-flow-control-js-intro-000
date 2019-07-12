@@ -28,7 +28,7 @@ return "You are a dingleberry"
 function ternaryTeenager(age) {
 return(age >=13 && age <=19) ? "You are a teenager":"You are not a teenager"
 }
-var = age = case(age)
+var = age = "age"
 function switchAge(age) {
 case age (age >=): "You have an age" 
     break;
